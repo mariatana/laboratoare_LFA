@@ -1,0 +1,1 @@
+Acest proiect conține mai multe simulări implementate în Python pentru diferite tipuri de automi folosiți în teoria limbajelor formale și automatelor. Fiecare program citește o configurație dintr-un fișier JSON și simulează comportamentul unui automat specific, în funcție de un șir de intrare.
